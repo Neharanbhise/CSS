@@ -1,0 +1,59 @@
+body {
+    font-family: Arial;
+    background-color:rgb(247, 238, 238);
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.resume {
+    background-color: white;
+    width: 800px;
+    padding: 20px;
+}
+
+
+header {
+    display: flex;
+    background-color:rgb(30, 58, 109);
+    color: white;
+    padding: 20px;
+}
+
+.header-left {
+    flex: 2;
+}
+
+.header-left h1 {
+    margin: 0;
+}
+
+.header-left h2 {
+    margin: 1;
+}
+
+h4{
+    color:darkblue;
+}
+
+b{
+    color:darkblue;
+}
+
+.header-right img {
+    width: 120px;
+    height: 120px;
+}
+
+section {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    background-color:rgb(30, 58, 109);
+    color: white;
+    padding: 10px;
+}
+
+
